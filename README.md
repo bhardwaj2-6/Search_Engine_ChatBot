@@ -4,7 +4,7 @@
 
 An AI-powered chatbot built with LangChain, powered by Llama3 via Groq, and integrated with DuckDuckGo, Wikipedia, and Arxiv to fetch real-time, informative answers.
 
-🚀 Live Demo
+🚀 Live Demo https://searchenginechatbot-h94szkc4bzlluqlhuvzlzx.streamlit.app
 
 
 
